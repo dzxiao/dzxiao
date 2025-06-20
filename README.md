@@ -7,31 +7,24 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  Hi, I'm Zixiao Deng, a Front-End Developer from China 🇨🇳
+  <br>
+  <br>
+  💻 I'm deeply passionate about **writing code** and continuously exploring the vast landscape of web development. My journey is driven by a desire to build intuitive, efficient, and visually appealing user interfaces.
+  <br>
+  📚 I'm currently diving deeper into **performance optimization techniques** for web applications, aiming to deliver lightning-fast and seamless user experiences. I firmly believe that a great user experience starts with a highly performant front-end.
+  <br>
+  🚀 My expertise lies in crafting responsive and interactive web experiences using modern front-end technologies. I genuinely enjoy bringing designs to life and solving complex UI challenges.
+  <br>
+  💬 Feel free to ask me anything about **front-end development**, web standards, or general programming challenges. I'm always open to discussing new ideas and collaborating on interesting projects!
+  <br>
+  📫 How to reach me: <a href="mailto: dzxXiao1111@163.com">dzxXiao1111@163.com</a>
 </p>
 
 <hr>
