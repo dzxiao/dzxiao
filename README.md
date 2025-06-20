@@ -9,6 +9,8 @@
 <h5 align="center">
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.xiaohongshu.com/" title="xhs Profile"><img width="22" src="images/xhs.svg"> 小红书</a></code>
+  <code><a href="https://linux.do/" title="linux Profile"><img width="22" src="images/linux.svg"> Linux Do</a></code>
 </h5>
 <br>
 
@@ -88,16 +90,16 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dzxiao/fighting-design" title="fighting-design"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=fighting-design&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/dzxiao/dzx-blog-webpro" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=dzx-blog-webpro&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dzxiao/TypeScript" title="TypeScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=TypeScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/dzxiao/dzx-blog-webpro" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=dzx-blog-webpro&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dzxiao/awesome" title="awesome"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=awesome&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dzxiao/element-plus" title="element-plus"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=element-plus&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/dzxiao/pnpm" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=pnpm&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dzxiao/vue" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=vue&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dzxiao/rust" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=rust&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/dzxiao/study-react" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzxiao&repo=study-react&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
